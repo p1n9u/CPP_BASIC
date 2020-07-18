@@ -72,6 +72,8 @@ int main(void) {
     memcpy(&f10, &f9, sizeof(f9));
     cout << "INF f10 : " << f10 << endl;
 
+    // FLT_MIN vs FLT_TRUE_MIN
+    
     return 0;
 }
 
