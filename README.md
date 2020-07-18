@@ -5,4 +5,4 @@
 * Terminal : Pengwin
 * Shell : zsh
 * Compiler : gcc-c++
-** compile command : g++ -o filename filename.cpp
+- compile command : g++ -o filename filename.cpp
